@@ -1,1 +1,1 @@
-#🎄 Advent of Code — My solutions written in Java ❄️🎅🏻
+🎄 Advent of Code — My solutions written in Java ❄️🎅🏻
